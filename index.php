@@ -15,7 +15,7 @@ session_start();
         <!-- Latest compiled and minified javascript -->
         <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
         <!-- External CSS -->
-        <link rel="stylesheet" href="css/styling.css" type="text/css">
+        <link rel="stylesheet" href="css/style.css" type="text/css">
     </head>
     <body>
         <div>
